@@ -7,11 +7,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/jackzzj/kwatch.git" />
+          <option name="url" value="https://github.com/jackzzj/kibana.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\C5252453\Documents\Projects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Development" />
   </component>
 </application>
